@@ -35,6 +35,7 @@ Breed and trait data were cleaned, normalized, and structured to support both vi
 
 ## Future Improvements
 - Enhance visualizations for more interactive comparison of breeds
+- Improve recommendation transparency by presenting detailed breed profiles, including expanded trait descriptions, images, and comparative visual insights
 - Explore alternative recommendation algorithms and ranking methods
 - Expand data sources to include detailed other breed characteristics and environmental factors for a more precise and personalized recommendation system
 
